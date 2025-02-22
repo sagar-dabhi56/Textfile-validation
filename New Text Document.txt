@@ -72,10 +72,14 @@ function App() {
             " Tip ) "}
         </h1>
       </div>
-
+  <div>
+  Added file to the git hub reposatory
+  </div>
       <button onClick={() => resetHandler()}>Reset</button>
     </main>
   );
 }
 
 export default App;
+
+
